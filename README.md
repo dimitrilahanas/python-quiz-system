@@ -35,7 +35,7 @@ This is a beginner-friendly Python project that turns a plain `.txt` file into a
    Run the Python script using:
 
    ```
-   python quiz.py
+   python main.py
    ```
 
 4. **Take the quiz!**  
